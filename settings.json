@@ -1,0 +1,18 @@
+{
+    "C_Cpp.updateChannel": "Insiders",
+    "window.zoomLevel": 0,
+    // https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    // Controls the line height. Use 0 to compute the lineHeight from the fontSize.
+    "editor.lineHeight": 24,
+    // Enables font ligatures
+    "editor.fontLigatures": true,
+    // Controls if file decorations should use badges.
+    "explorer.decorations.badges": false,
+    // https://sourcefoundry.org/hack/
+    "editor.fontFamily": "Hack",
+    // not a fan of comments being so hard to see by default in the material design.
+    "editor.tokenColorCustomizations": {
+        "comments": "#a7a7a7"
+    }
+}
